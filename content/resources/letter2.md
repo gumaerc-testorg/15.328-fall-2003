@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: A sample letter of agreement.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-328-team-project-fall-2003/52a2667f4de23210967dbb84c99f2f51_letter2.pdf
+file: /media/courses/15-328-team-project-fall-2003/52a2667f4de23210967dbb84c99f2f51_letter2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Project
+parent_type: CourseSection
 resourcetype: Document
 title: letter2.pdf
 uid: 52a2667f-4de2-3210-967d-bb84c99f2f51
