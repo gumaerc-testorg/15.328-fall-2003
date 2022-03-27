@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Project
 parent_type: CourseSection
+parent_uid: 3cf6c44f-ce0f-6c02-40be-e6bf4af0c30f
 resourcetype: Document
 title: letter1.pdf
 uid: 7d37a9b9-e07d-90e0-b702-81feae5b7a95

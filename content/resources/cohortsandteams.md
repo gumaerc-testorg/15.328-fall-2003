@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Pedagogy
 parent_type: CourseSection
+parent_uid: d4e0d3fd-bafd-e415-bc59-227102520a39
 resourcetype: Document
 title: cohortsandteams.pdf
 uid: 3acb286f-0145-f604-3d6f-ccab6ad220e8
