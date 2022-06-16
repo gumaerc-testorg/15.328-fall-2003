@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A sample letter of agreement.
-file: /media/courses/15-328-team-project-fall-2003/52a2667f4de23210967dbb84c99f2f51_letter2.pdf
+file: /courses/15-328-team-project-fall-2003/52a2667f4de23210967dbb84c99f2f51_letter2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: letter2.pdf
 uid: 52a2667f-4de2-3210-967d-bb84c99f2f51
 ---
+A sample letter of agreement.
+

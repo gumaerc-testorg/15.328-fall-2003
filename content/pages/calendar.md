@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of deadlines for team projects for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: cebf51bb-ab62-b239-d33d-9c65a8ab7b72
 ---
 
-As explained in the [syllabus]({{< baseurl >}}/pages/syllabus), 15.328 does not have a regular class schedule. However, there are several deadlines to meet as teams complete their projects.
+As explained in the {{% resource_link b0fec6eb-6afe-9ac5-71c5-292b56e5d59a "syllabus" %}}, 15.328 does not have a regular class schedule. However, there are several deadlines to meet as teams complete their projects.
 
 {{< tableopen >}}
 {{< theadopen >}}
