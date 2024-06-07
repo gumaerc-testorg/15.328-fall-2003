@@ -3,6 +3,7 @@ content_type: resource
 description: Questionnaire for Team Members (list names), Organization/Company Name,
   Industry/Primary Business etc
 file: /courses/15-328-team-project-fall-2003/63aa7c414862e72b6d19428596ddabc7_identificationform.pdf
+file_size: 18177
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
