@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-328-team-project-fall-2003/815a95ab83c80bb5beeb06d1a1759fa1_orientation.pdf
+file: /courses/15-328-team-project-fall-2003/815a95ab83c80bb5beeb06d1a1759fa1_orientation.pdf
 file_size: 70719
 file_type: application/pdf
 learning_resource_types: []
