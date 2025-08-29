@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-328-team-project-fall-2003/ab476774390a370046986a3ad2b41964_feedbackform.pdf
+file: /ol-ocw-studio-app/courses/15-328-team-project-fall-2003/ab476774390a370046986a3ad2b41964_feedbackform.pdf
 file_size: 37257
 file_type: application/pdf
 learning_resource_types: []
