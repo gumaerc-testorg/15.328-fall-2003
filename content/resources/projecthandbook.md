@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Project Handbook: Background, Frequently Asked Questions, Sample Team
   Project Topics, Calendar.'
-file: /courses/15-328-team-project-fall-2003/34766c6f34e396fe396d7871d17908f2_projecthandbook.pdf
+file: /ol-ocw-studio-app/courses/15-328-team-project-fall-2003/34766c6f34e396fe396d7871d17908f2_projecthandbook.pdf
 file_size: 88384
 file_type: application/pdf
 learning_resource_types: []
